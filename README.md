@@ -46,7 +46,7 @@ A full-stack personal finance analytics dashboard built with **TypeScript**, **P
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/finance-dashboard.git
+git clone https://github.com/Reaver1000/finance-dashboard.git
 cd finance-dashboard
 
 # Start PostgreSQL
